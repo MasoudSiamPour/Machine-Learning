@@ -8,7 +8,7 @@
 - [x] Polynomial Regression
 - [x] Ridge Regression (L2)
 - [x] Lasso Regression (L1)
-- [ ] Elastic Net Regression
+- [x] Elastic Net Regression
 - [ ] Bayesian Linear Regression
 - [ ] Robust Regression
 - [ ] Huber Regression
