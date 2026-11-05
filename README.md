@@ -6,8 +6,8 @@
 - [x] Simple Linear Regression
 - [x] Multiple Linear Regression
 - [x] Polynomial Regression
-- [ ] Ridge Regression (L2)
-- [ ] Lasso Regression (L1)
+- [x] Ridge Regression (L2)
+- [x] Lasso Regression (L1)
 - [ ] Elastic Net Regression
 - [ ] Bayesian Linear Regression
 - [ ] Robust Regression
