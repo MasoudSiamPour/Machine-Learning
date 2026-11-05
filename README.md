@@ -3,8 +3,8 @@
 ## 1. Supervised Learning
 
 ### A. Regression
-- [ ] Simple Linear Regression
-- [ ] Multiple Linear Regression
+- [x] Simple Linear Regression
+- [x] Multiple Linear Regression
 - [ ] Polynomial Regression
 - [ ] Ridge Regression (L2)
 - [ ] Lasso Regression (L1)
