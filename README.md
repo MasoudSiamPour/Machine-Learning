@@ -11,8 +11,8 @@
 - [x] Elastic Net Regression
 - [x] Bayesian Linear Regression
 - [x] Robust Regression
-- [ ] Huber Regression
-- [ ] Quantile Regression
+- [x] Huber Regression
+- [x] Quantile Regression
 - [ ] Poisson Regression
 - [ ] Negative Binomial Regression
 - [ ] Generalized Linear Models (GLMs)
