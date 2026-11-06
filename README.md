@@ -10,7 +10,7 @@
 - [x] Lasso Regression (L1)
 - [x] Elastic Net Regression
 - [x] Bayesian Linear Regression
-- [ ] Robust Regression
+- [x] Robust Regression
 - [ ] Huber Regression
 - [ ] Quantile Regression
 - [ ] Poisson Regression
