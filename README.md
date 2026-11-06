@@ -9,7 +9,7 @@
 - [x] Ridge Regression (L2)
 - [x] Lasso Regression (L1)
 - [x] Elastic Net Regression
-- [ ] Bayesian Linear Regression
+- [x] Bayesian Linear Regression
 - [ ] Robust Regression
 - [ ] Huber Regression
 - [ ] Quantile Regression
