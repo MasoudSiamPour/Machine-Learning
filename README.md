@@ -12,7 +12,7 @@
 - [x] Bayesian Linear Regression
 - [x] Robust Regression
 - [x] Huber Regression
-- [ ] Quantile Regression
+- [x] Quantile Regression
 - [ ] Poisson Regression
 - [ ] Negative Binomial Regression
 - [ ] Generalized Linear Models (GLMs)
