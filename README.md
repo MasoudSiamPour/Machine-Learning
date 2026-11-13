@@ -13,7 +13,7 @@
 - [x] Robust Regression
 - [x] Huber Regression
 - [x] Quantile Regression
-- [ ] Poisson Regression
+- [x] Poisson Regression
 - [ ] Negative Binomial Regression
 - [ ] Generalized Linear Models (GLMs)
 - [ ] Support Vector Regression (SVR)
